@@ -1,4 +1,11 @@
-## Hi there 👋
+## _bonjour, je m'apelle dimitry_ ✌️
+
+
+__<p align="center">Sou estudante de ciência da computação na Universidade federal do Espírito Santo. Gosto de gatos, paz, música e tecnologia.</p>__
+
+<div align="center">
+<img src="imgs/css.png"> <img src="imgs/linuxnow2.gif"> <img src="imgs/neovim.gif"> <img src="imgs/notepad2.gif"> <img src="imgs/winamp.gif">
+<div/>
 
 <!--
 **shoui000/shoui000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
