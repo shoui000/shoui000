@@ -1,7 +1,7 @@
-_<h2 align="center"> bonjour, je m'apelle dimitry ✌️<h2/>_
+_<h2 align="center"> bonjour, je m'apelle dimitry ✌️</h2>_
 
 
-<p align="center">Sou estudante de ciência da computação na Universidade federal do Espírito Santo. Gosto de gatos, paz, música e tecnologia.</p>
+__<p align="center">Sou estudante de ciência da computação na Universidade federal do Espírito Santo. Gosto de gatos, paz, música e tecnologia.</p>__
 
 <div align="center">
 <img src="imgs/css.png"> <img src="imgs/linuxnow2.gif"> <img src="imgs/neovim.gif"> <img src="imgs/notepad2.gif"> <img src="imgs/winamp.gif">
